@@ -10,3 +10,14 @@ font-size: 50px;
 text-shadow: 2px 2px ;
 box-shadow: 10px 10px;
 }
+p {
+  font-family:  courier;
+}
+#test {
+text-align: center;
+ }
+.blast {
+      background-color:  green;
+    }
+
+}
