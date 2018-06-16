@@ -20,6 +20,16 @@ color: black;
 h1 {
   text-align: center;
 }
+.first{
+width: 20px
+border: 30px solid green;
+padding: 20px;
+margin: 25px;
+border: 2px solid red;
+border-radius: 5px;
+border-left: 6px solid red;
+background-color: lightgrey;
+}
 p {
   font-family:  courier;
   text-align:center;
