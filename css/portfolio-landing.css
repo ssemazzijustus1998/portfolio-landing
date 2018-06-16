@@ -1,14 +1,17 @@
 
+
+header {
+text-align:center;
+font-size: 80px;
+text-decoration: blue;
+}
+
+#intro {
+  background: url( "img_golf.jpg" ) no-repeat center fixed;
+  background-size : cover;
+}
 h1 {
   text-align: center;
-}
-header {
-background-color: rgba(255, 99, 71 ,0.2);
-border-top: 2px solid #333;
-text-align:center;
-font-size: 50px;
-text-shadow: 2px 2px ;
-box-shadow: 10px 10px;
 }
 p {
   font-family:  courier;
@@ -19,5 +22,8 @@ text-align: center;
 .blast {
       background-color:  green;
     }
+body {
+background: linear-gradient(to right ,rgba(255,0,0,0),rgba(255,0,0,1));
+
 
 }
