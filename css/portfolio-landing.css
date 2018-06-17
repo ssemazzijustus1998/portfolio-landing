@@ -61,6 +61,27 @@ box-shadow:  10px 10px ;
   background-color: lightgrey;
   box-shadow:  10px 10px ;
 }
+#border1 {
+
+border-radius: 30px 100px;
+background: #73AD21;
+padding: 20px;
+width: 600px;
+height: 150px;
+border-spacing:  center;
+text-align: center;
+}
+
+#last{
+  border-radius: 30px 100px;
+  background: #73AD21;
+  padding: 20px;
+  width: 600px;
+  height: 150px;
+  border-spacing:  center;
+  text-align: center;
+  float:right;
+}
 .p {
   font-family:  courier;
   text-align:center;
