@@ -44,7 +44,7 @@ font-size: 17px;
 width: 20px
 border: 30px solid green;
 padding: 20px;
-margin: 25px;
+margin: 20px;
 border: 2px solid red;
 border-radius: 5px;
 border-left: 6px solid red;
@@ -55,7 +55,7 @@ box-shadow:  10px 10px ;
   width: 20px
   border: 30px solid green;
   padding: 20px;
-  margin: 25px;
+  margin: 20px;
   border: 2px solid red;
   border-radius: 5px;
   border-left: 6px solid red;
@@ -71,6 +71,7 @@ width: 600px;
 height: 150px;
 border-spacing:  center;
 text-align: center;
+margin: 400px;
 }
 
 #last{
@@ -82,6 +83,7 @@ text-align: center;
   border-spacing:  center;
   text-align: center;
   float:right;
+  margin: 400px;
 }
 .p {
   font-family:  courier;
@@ -104,6 +106,7 @@ text-align: center;
   border-spacing:  center;
   text-align: center;
   float:left;
+  margin: 400px;
   }
 body {
 background: linear-gradient(to bottom ,rgba(255,255,255),rgba(255,255,255));
